@@ -1,8 +1,9 @@
 # pradeeshhu.github.io
 pradeeshhu.github.io/portfolio
 
-#PRADEESH
-#3D XR Designer
+
+## PRADEESH
+## 3D XR Designer
 
  Pradeeshhu@gmail.com
  Harrisburg PA 
